@@ -24,8 +24,6 @@ public class MongoDBService {
         return await _commentsCollection.Find(new BsonDocument()).ToListAsync();
     }
 
-    //public async Task AddToCommentAsync(string id, string movieId) {}
-
     public async Task DeleteAsync(string id) {
         FilterDefinition<Comment> filter = Builders<Comment>.Filter.Eq("Id", id);
         await _commentsCollection.DeleteOneAsync(filter);
