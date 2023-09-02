@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LINDA CASTAÑO\\Desktop\\JDOC\\MongoCrud\\MongoCrud.csproj": {}
+    "C:\\Users\\JUAN\\Desktop\\Software\\BackEnd\\.NET\\MongoCrud\\MongoCrud.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LINDA CASTAÑO\\Desktop\\JDOC\\MongoCrud\\MongoCrud.csproj": {
+    "C:\\Users\\JUAN\\Desktop\\Software\\BackEnd\\.NET\\MongoCrud\\MongoCrud.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LINDA CASTAÑO\\Desktop\\JDOC\\MongoCrud\\MongoCrud.csproj",
+        "projectUniqueName": "C:\\Users\\JUAN\\Desktop\\Software\\BackEnd\\.NET\\MongoCrud\\MongoCrud.csproj",
         "projectName": "MongoCrud",
-        "projectPath": "C:\\Users\\LINDA CASTAÑO\\Desktop\\JDOC\\MongoCrud\\MongoCrud.csproj",
-        "packagesPath": "C:\\Users\\LINDA CASTAÑO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LINDA CASTAÑO\\Desktop\\JDOC\\MongoCrud\\obj\\",
+        "projectPath": "C:\\Users\\JUAN\\Desktop\\Software\\BackEnd\\.NET\\MongoCrud\\MongoCrud.csproj",
+        "packagesPath": "C:\\Users\\JUAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JUAN\\Desktop\\Software\\BackEnd\\.NET\\MongoCrud\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LINDA CASTAÑO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\JUAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -67,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
